@@ -142,5 +142,37 @@ export const blogPosts: Post[] = [
       <p>Mulai sedini mungkin, konsisten menambah modal, hindari menarik dana terlalu sering, dan pilih instrumen dengan potensi pertumbuhan jangka panjang.</p>
       <p><em>Disclaimer: Artikel ini bukan nasihat keuangan.</em></p>
     `
-  }
+  },
+{
+  id: 2,
+  title: "5 Kesalahan Investor Pemula yang Bikin Rugi",
+  slug: "5-kesalahan-investor-pemula",
+  excerpt: "Banyak pemula rugi bukan karena pasarnya jelek, tapi karena kesalahan sendiri. Kenali 5 kesalahan ini biar kamu nggak mengulanginya.",
+  date: "2026-08-29",
+  category: "Panduan Dasar",
+  readTime: 5,
+  content: `
+    <p>Investasi itu sebenarnya nggak serumit yang dibayangkan. Tapi banyak pemula yang akhirnya rugi atau kapok, bukan karena instrumennya jelek, melainkan karena kesalahan yang sebenarnya bisa dihindari. Yuk kenali 5 kesalahan paling umum ini.</p>
+    
+    <h2>1. Panik Jual Saat Harga Turun</h2>
+    <p>Ini kesalahan paling sering terjadi. Begitu lihat portofolio merah, banyak pemula langsung jual semua asetnya karena takut rugi lebih dalam. Padahal, penurunan harga itu wajar dan bagian dari siklus pasar. Kalau kamu jual saat harga turun, kerugian yang tadinya cuma "di atas kertas" jadi kerugian beneran.</p>
+    
+    <h2>2. Ikut-ikutan Tanpa Riset</h2>
+    <p>Lihat teman untung dari saham atau koin tertentu, langsung ikut beli tanpa tau alasannya. Padahal situasi keuangan, tujuan, dan profil risiko tiap orang beda-beda. Yang cocok buat orang lain belum tentu cocok buat kamu.</p>
+    
+    <h2>3. Taruh Semua Uang di Satu Instrumen</h2>
+    <p>Prinsip "jangan taruh semua telur di satu keranjang" itu bukan basa-basi. Kalau semua uang kamu ditaruh di satu saham atau satu jenis aset, risikonya jadi besar banget. Sebar investasi ke beberapa instrumen biar risikonya lebih terkendali.</p>
+    
+    <h2>4. Pakai Uang yang Sebenarnya Dibutuhkan Dekat Waktu</h2>
+    <p>Investasi itu untuk uang "dingin", uang yang nggak akan kamu pakai dalam waktu dekat. Kalau kamu investasi pakai uang buat bayar kuliah bulan depan atau dana darurat, begitu butuh mendadak dan harga lagi turun, kamu terpaksa jual rugi.</p>
+    
+    <h2>5. Nggak Punya Tujuan yang Jelas</h2>
+    <p>Investasi tanpa tujuan itu seperti jalan tanpa arah. Mau buat dana pensiun? DP rumah? Dana pendidikan anak? Tujuan yang jelas bakal nentuin instrumen apa yang cocok dan berapa lama kamu harus konsisten investasi.</p>
+    
+    <h2>Kesimpulan</h2>
+    <p>Kelima kesalahan di atas sebenarnya bisa dihindari kalau kamu investasi dengan sabar, riset dulu sebelum mulai, dan punya tujuan yang jelas. Investasi itu maraton, bukan sprint.</p>
+    
+    <p><em>Disclaimer: Artikel ini bukan nasihat keuangan. Selalu lakukan riset sendiri sebelum berinvestasi.</em></p>
+  `
+},
 ];
