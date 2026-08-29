@@ -43,6 +43,19 @@ export default async function BlogPostPage({
           className="prose max-w-none text-gray-700 leading-relaxed [&_h2]:text-2xl [&_h2]:font-bold [&_h2]:text-gray-900 [&_h2]:mt-8 [&_h2]:mb-4 [&_p]:mb-4"
           dangerouslySetInnerHTML={{ __html: post.content }}
         />
+        <div className="bg-blue-50 border-2 border-blue-500 rounded-xl p-6 text-center my-8">
+  <p className="text-3xl mb-2">💡</p>
+  <p className="text-xl font-bold text-blue-900 mb-2">Mau Mulai Investasi?</p>
+  <p className="text-gray-700 mb-4">
+    Daftar Ajaib sekarang pakai kode referral <strong>bach908</strong> dan dapatkan bonus saldo untuk top up pertamamu.
+  </p>
+  <a 
+    href="https://ajaib.co.id" 
+    className="inline-block bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-lg"
+  >
+    Daftar Sekarang →
+  </a>
+</div>
         <div className="mt-12 pt-8 border-t">
           <Link href="/" className="text-blue-600 hover:text-blue-800 font-semibold">
             ← Kembali ke Beranda
